@@ -94,7 +94,7 @@ Przeszukaj kontenery w domach, aby znaleźć ten przedmiot.
 OldMuscleArmored
 15
 6
-Kurtka ranczo
+Kurtka z ranczo
 Palić
 2
 1,7
@@ -197,7 +197,7 @@ Noś go z uśmiechem na twarzy.
 Zbadać
 injured05
 5,1
-Brązowy dżins
+Brązowe dżinsy
 Automatycznie dodawany do szafy każdego gracza.
 CPL Cody Lewis
 3
